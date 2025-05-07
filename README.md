@@ -2,6 +2,7 @@
 Sistema web para gerenciamento logístico de veículos, com funcionalidades de controle de lavagens, agendamentos, entregas e monitoramento em tempo real.
 
 ⚙️ Tecnologias Utilizadas
+
 Frontend: React + Tailwind CSS
 
 Backend: Django
