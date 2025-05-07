@@ -19,8 +19,11 @@ bash
 Copiar
 Editar
 logistica/
+
 ├── frontend/         # Aplicação React (interface do usuário)
+
 ├── backend/          # API Django (lógica de negócio e banco de dados)
+
 └── README.md
 
 
