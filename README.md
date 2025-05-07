@@ -13,6 +13,8 @@ Comunicação em Tempo Real: WebSockets
 
 
 📁 Estrutura do Projeto
+
+
 bash
 Copiar
 Editar
@@ -20,15 +22,22 @@ logistica/
 ├── frontend/         # Aplicação React (interface do usuário)
 ├── backend/          # API Django (lógica de negócio e banco de dados)
 └── README.md
+
+
 📌 Requisitos
+
+
 Node.js 16 ou superior
 
 Python 3.8 ou superior
 
 MySQL 8.0 ou superior
 
+
 🚀 Configuração do Ambiente
 🔧 Backend (Django)
+
+
 Crie e ative um ambiente virtual:
 
 bash
@@ -57,7 +66,11 @@ bash
 Copiar
 Editar
 python manage.py runserver
+
+
 🎨 Frontend (React)
+
+
 Instale as dependências:
 
 bash
@@ -71,7 +84,11 @@ bash
 Copiar
 Editar
 npm run dev
+
+
 ✅ Funcionalidades
+
+
 Autenticação com controle por filial
 
 Cadastro e gestão de agendamentos
@@ -85,4 +102,7 @@ Cadastro de usuários com diferentes permissões
 Administração de múltiplas filiais
 
 📝 Licença
+
 Este projeto está licenciado sob a licença MIT.
+
+Desenvolvido por DEV-JosemarLino
